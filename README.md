@@ -1,6 +1,7 @@
 Tableau dashboard "HOLLYWOOD STORIES"
 
 Goal 
+
 To analyze the profitability, audience reception, and box office performance of Hollywood films based on lead studios, genres, and release years, and to uncover key patterns that drive success in the film industry.
 
 Skills Demonstrated:
